@@ -1,0 +1,4 @@
+(
+    title: "Grimplan",
+    dimensions: Some((800, 600))
+)
