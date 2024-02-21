@@ -3,5 +3,6 @@ name = "grimplan"
 version = "0.1.0"
 edition = "2021"
 
-[dependencies]
-amethyst = "^0.15"
+[dependencies.amethyst]
+version = "^0.15"
+features = ["vulkan"]
